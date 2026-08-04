@@ -44,6 +44,31 @@ Os principais modelos de comércio eletrônico são:
 
 > `IEEE (Institute of Electrical and Electronics Engineer) que tem como objetivo padronizar tecnologias, publicar pesquisas científicas e conectar profissionais da área tecnológica globalmente.`
 
+---
+
+## Frequência do Wi-Fi
+Quando uma frequência é um pouco menor, ela consegue transportar mais energia e mais dados. Por isso, a frequência de 5,825 GHz oferece maior capacidade de transmissão de dados.
+
+
+## Problemas do Wi-Fi
+* Colisão de dados
+  
+  * Acesso múltiplo com detecção de portadora (CSMA).
+  
+  * Baseado no protocolo ALOHA.
+    
+* Segurança
+    * Wired Equivalent Privacy (WEP)
+      
+    * Wi-Fi Protected Access (WPA)
+      
+    * WPA2
+
+**Observação:**
+> Não é recomendado utilizar redes Wi-Fi públicas para acessar serviços que exigem login ou senha. Em redes inseguras ou mal configuradas, um invasor pode interceptar a comunicação ou tentar capturar credenciais utilizando diferentes técnicas de ataque.
+
+
+
 
 
 
