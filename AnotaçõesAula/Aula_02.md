@@ -96,13 +96,18 @@ Quando uma frequência é um pouco menor, ela consegue transportar mais energia 
       * Camadas de protocolos: modelo OSI
 
 ---
+## Virtual ou virtualmente
+Algo acontece virtualmente quando ocorre de forma indireta, por meio de uma camada intermediária. Um exemplo é quando duas pessoas desejam se comunicar por cartas, mas existe um sistema de tradução entre elas. Assim, cada pessoa escreve em seu próprio idioma, e a tradução permite que ambas conversem indiretamente, sem precisar conhecer a língua da outra.
+
+---
 
 ##  Camadas de Protocolos
-O protocolo tira a preocupação de implementação das coisas funcionam. Por isso, quando desenvolvido um sistema pode se escolher a quantidade de camadas vão ser usadas. 
+Uma camada de protocolo abstrai os detalhes de implementação, permitindo que cada parte do sistema se preocupe apenas com sua própria função. Dessa forma, ao desenvolver um sistema, é possível definir quantas camadas serão utilizadas. Esse conjunto de camadas é chamado de Arquitetura de Rede.
 
 * Reduzir complexidade
 * Pilha de camadas / níveis de protocolos
 * Isolamento / abstração da implementação
+
 
 
 
