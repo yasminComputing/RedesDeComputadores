@@ -102,7 +102,7 @@ Algo acontece virtualmente quando ocorre de forma indireta, por meio de uma cama
 ---
 
 ##  Camadas de Protocolos
-Uma camada de protocolo abstrai os detalhes de implementação, permitindo que cada parte do sistema se preocupe apenas com sua própria função. Dessa forma, ao desenvolver um sistema, é possível definir quantas camadas serão utilizadas. Esse conjunto de camadas é chamado de Arquitetura de Rede.
+Uma camada de protocolo abstrai os detalhes de implementação, permitindo que cada parte do sistema se preocupe apenas com sua própria função. Dessa forma, ao desenvolver um sistema, é possível definir quantas camadas serão utilizadas. Esse conjunto de camadas é chamado de **Arquitetura de Rede**.
 
 * Reduzir complexidade
 * Pilha de camadas / níveis de protocolos
