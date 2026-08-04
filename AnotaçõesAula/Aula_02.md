@@ -111,6 +111,13 @@ Uma camada de protocolo abstrai os detalhes de implementação, permitindo que c
 
 ## Serviço X Protocolos
 
-O serviço somente é o conjunto primitivos (operações),não informa como as operações são implementadas.Protocolo é conjunto de regras, controla formato e significado de mensagens. 
+O serviço somente é o conjunto primitivos (operações),não informa como as operações são implementadas. Protocolo é conjunto de regras, controla formato e significado de mensagens. 
 
+---
+
+## Modelo de Referência
+
+* Modelo OSI: padronização internacional dos protocolos, contém três conceitos: serviços, interfaces, protocolos. 
+  
+* Modelo TCP/IP: ARPANET, conectar várias redes de maneira uniforme, flexibilidade, redundância de rede. 
 
