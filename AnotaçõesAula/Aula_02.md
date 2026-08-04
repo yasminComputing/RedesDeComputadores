@@ -8,7 +8,7 @@ As redes de computadores devem conter, no mínimo, **dois computadores** interli
   - Internet (navegação na Web);
   - Aplicações Web (modelo cliente-servidor).
 
-<img width="256" height="192" alt="redirecionador-l" src="https://github.com/user-attachments/assets/17afc5b1-4637-4e5d-9478-fc10f43eeca5" />
+<img width="256" height="192" alt="redirecionador-l" src="https://github.com/user-attachments/assets/17afc5b1-4637-4e5d-9478-fc10f43eeca5"/>
 
 ---
 
@@ -19,7 +19,7 @@ O modelo **Peer-to-Peer (P2P)** não é hierárquico. Nesse tipo de rede, todos 
 
 - Ao utilizar o BitTorrent, outras pessoas podem usar sua conexão para baixar arquivos que você está compartilhando. Esse processo é conhecido como **semeadura (seeding)**.
 
-<img width="572" height="400" alt="overview" src="https://github.com/user-attachments/assets/0729bf35-096e-4770-b5ba-a0364caf59ed" />
+<img width="572" height="400" alt="overview" src="https://github.com/user-attachments/assets/0729bf35-096e-4770-b5ba-a0364caf59ed"/>
 
 ---
 
@@ -67,8 +67,42 @@ Quando uma frequência é um pouco menor, ela consegue transportar mais energia 
 **Observação:**
 > Não é recomendado utilizar redes Wi-Fi públicas para acessar serviços que exigem login ou senha. Em redes inseguras ou mal configuradas, um invasor pode interceptar a comunicação ou tentar capturar credenciais utilizando diferentes técnicas de ataque.
 
+---
 
+## Protocolos de Rede
+É um acordo entre duas partes, é a forma como se comunica. Cada rede que pode ser montada pode ser escolhido o protocolo. Como escolher um protocolo: 
 
+* **Objetivo de Projeto**
+
+    * **Confiabilidade**
+      * Detecção de erros
+      * Correção de erros
+      * Roteamento automático
+
+    * **Alocação de Recursos**
+      * Escalabilidade
+      * Multiplexação Estatística: alocar recursos conforme demanda
+      * Controle de fluxo: evitar congestionamento
+      * Qualidade de serviço
+
+    * **Segurança**
+      * Confidencialidade
+      * Autenticação: SCL
+      * Integridade
+
+    * **Capacidade de Evolução**
+      * Endereçamento / nomeação
+      * Interligação de redes
+      * Camadas de protocolos: modelo OSI
+
+---
+
+##  Camadas de Protocolos
+O protocolo tira a preocupação de implementação das coisas funcionam. Por isso, quando desenvolvido um sistema pode se escolher a quantidade de camadas vão ser usadas. 
+
+* Reduzir complexidade
+* Pilha de camadas / níveis de protocolos
+* Isolamento / abstração da implementação
 
 
 
