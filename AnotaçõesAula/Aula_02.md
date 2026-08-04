@@ -109,6 +109,8 @@ Uma camada de protocolo abstrai os detalhes de implementação, permitindo que c
 * Isolamento / abstração da implementação
 
 
+## Serviço X Protocolos
 
+O serviço somente é o conjunto primitivos (operações),não informa como as operações são implementadas.Protocolo é conjunto de regras, controla formato e significado de mensagens. 
 
 
